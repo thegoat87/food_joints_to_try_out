@@ -1,0 +1,27 @@
+
+
+
+
+
+
+/* Links styling */
+/* unvisited link */
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+/* :visited link */
+a:visited {
+	color: purple;
+}
+
+/* hovered link */
+a:hover {
+	text-decoration: underline;
+}
+
+/* clicked link */
+a:active {
+	color: red;
+}
